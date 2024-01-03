@@ -1,0 +1,38 @@
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+li{
+    list-style-type:none;
+}
+
+.div1{
+    display: flex;
+    border-radius:10px;
+    padding:6px;
+    border: 1px solid white;
+    justify-content: space-between;
+    margin-bottom: 10px; 
+    background-color:red;
+}
+.btn1{
+    background-color:red;
+    margin: 5px;
+    border-radius:10px;
+
+}
+.btn2{
+    background-color:orange;
+    margin: 5px;
+    border-radius:10px;
+}
+ .btn3{
+    background-color: green;
+    margin: 5px;
+    border-radius:10px;
+
+} 
+
+  
